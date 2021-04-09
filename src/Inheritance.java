@@ -1,4 +1,3 @@
-
 public class Inheritance {
     public static void main(String[] args) {
         AddSub obj = new AddSub();
