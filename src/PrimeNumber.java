@@ -1,6 +1,6 @@
 public class PrimeNumber {
     public static void main(String[] args) {
-        int n= 25;
+        int n= 25 ;
         boolean isPrime = true;
         for(int i = 2; i<n; i++){
             if(n%i == 0){
