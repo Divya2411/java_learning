@@ -4,8 +4,8 @@ import java.util.ResourceBundle;
 public class LocalDemo  {
     public static void main(String[] args) throws Exception {
         {
-            String lang = "en";
-            String country = "us";
+            String lang = "ge";
+            String country = "GE";
 
             Locale l = new Locale(lang, country);
         ResourceBundle r = ResourceBundle.getBundle("Bundle", l);
