@@ -2,7 +2,7 @@ public class Annotation {
     public static void main(String[] args) {
     NokiaASeries obj = new NokiaASeries("fire", 5);
         System.out.println(obj.model);
-        
+
     }
 
 }
